@@ -1,2 +1,3 @@
-# embedded_linux
+# Embedded Linux
+
 Artifact, source, document related to embedded linux
